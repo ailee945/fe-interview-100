@@ -1,6 +1,6 @@
 /**
  * @description index
- * @author 张
+ * @author 双越老师
  */
 
-import "./01-algorithm/16switchlettercase";
+import './04-analysis/tree-to-arr'
