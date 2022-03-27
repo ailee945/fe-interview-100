@@ -6,7 +6,7 @@
 
 ## hybrid 运作流程
 
-![](./img/hybrid1.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270952352.png)
 
 小提示：hybrid html 中 ajax 请求的 url 不能省略协议名称（如 `//xxx.com/api/getInfo`），否则会默认以 `file` 协议请求。必须明确协议名称 `http` 或者 `https`。
 
@@ -14,7 +14,7 @@
 
 hybrid 包是需要实时更新的，就跟 H5 网上上线一样。更新之后，App 要下载、使用最新版本的 hybrid 包。
 
-![](./img/hybrid2.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270952479.png)
 
 何时触发检查、下载最新版本呢？有两种选择
 - App 启动时检查、下载

@@ -26,7 +26,7 @@ Retina 屏 1px 像素问题，如何实现
 
 如下图，上面是微信 app 的 border ，下面是 `1px` 的 border ，有明显的区别。显得很粗糙，很不精致，设计师不会允许这样的页面发布上线的。
 
-![](./img/border-1.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270953568.png)
 
 PS：你不能直接写 `0.5px` ，浏览器兼容性不好，渲染出来可能还是 `1px` 的效果。
 
@@ -54,7 +54,7 @@ PS：你不能直接写 `0.5px` ，浏览器兼容性不好，渲染出来可能
 
 如下图，上面是微信 app 的 border ，下面是优化之后的 border ，两者粗细就一致了。
 
-![](./img/border-2.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270953401.png)
 
 ## 连环问：如果有 `border-radius` 怎么办
 

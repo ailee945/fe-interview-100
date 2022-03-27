@@ -10,7 +10,7 @@ http 请求是无状态的，即每次请求之后都会断开链接。<br>
 所以，每次请求时，都可以携带一段信息发送到服务端，以表明客户端的用户身份。服务端也也可以通过 `set-cookie` 向客户端设置 cookie 内容。<br>
 由于每次请求都携带 cookie ，所以 cookie 大小限制 4kb 以内。
 
-![](./img/cookie.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270953404.png)
 
 ## cookie 作为本地存储
 
@@ -66,7 +66,7 @@ JWT 的过程
 - 前端获取 token 之后，存储下来
 - 以后访问接口，都在 header 中带上这段 token
 
-![](./img/token.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270954186.png)
 
 ## 答案
 
@@ -105,7 +105,7 @@ JWT 的缺点
 
 复杂一点的，滴滴这么潮的公司，同时拥有 `didichuxing.com` `xiaojukeji.com` `didiglobal.com` 等域名，种 cookie 是完全绕不开的。需要使用 SSO 技术方案
 
-![](./img/sso.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270954223.png)
 
 ### OAuth2
 

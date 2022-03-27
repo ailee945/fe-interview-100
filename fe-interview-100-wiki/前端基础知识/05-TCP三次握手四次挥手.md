@@ -53,4 +53,4 @@ HTTP 协议是一个应用层的协议，它只规定了 req 和 res 的数据�
 
 ## 图示
 
-![](./img/TCP三次握手和四次挥手.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270940622.png)

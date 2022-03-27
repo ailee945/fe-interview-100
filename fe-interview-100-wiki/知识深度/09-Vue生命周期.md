@@ -6,7 +6,7 @@ Vue 每个生命周期都做了什么
 
 ## Vue 生命周期
 
-![](./img/vue-生命周期.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270957231.png)
 
 ## beforeCreate
 

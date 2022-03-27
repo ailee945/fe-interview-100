@@ -11,7 +11,7 @@
 JS 无法直接调用 app 的 API ，需要通过一种方式 —— 通称 js-bridge ，它也是一些 JS 代码。<br>
 当然，前提是 app 得开发支持，控制权在 app 端。就像跨域，server 不开放支持，客户端再折腾也没用。
 
-![](./img/js-bridge.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270956910.png)
 
 ## 方式1 - 注入 API
 

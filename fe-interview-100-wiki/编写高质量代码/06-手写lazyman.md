@@ -40,7 +40,7 @@ class LazyMan {
 
 初始化一个任务队列，执行 `eat` 和 `sleep` 是都往队列插入一个函数。依次执行队列的任务，遇到 `sleep` 就延迟触发 `next` 。
 
-![](./img/sleep.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270935116.png)
 
 代码参考 lazy-man.ts
 

@@ -6,7 +6,7 @@ HTTP 和 UDP 有何区别
 
 ## 网络协议
 
-![](./img/网络协议.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270954208.png)
 
 - HTTP 在应用层，直接被程序使用
 - TCP 和 UDP 在传输层，底层

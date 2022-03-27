@@ -15,7 +15,7 @@ webSocket 和 http 都是应用层，支持端对端的通讯。可以由服务�
 
 会先发起一个 http 请求，根服务端建立连接。连接成功之后再升级为 webSocket 协议，然后再通讯。
 
-![](./img/ws连接.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270955099.png)
 
 ## webSocket 和 http 区别
 

@@ -74,7 +74,7 @@ console.log('end')
 - DOM 渲染
 - ...
 
-![](./img/event-loop.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270956640.png)
 
 考虑宏任务和微任务
 - 执行 JS 同步代码（异步函数，分别放在 macroTaskQueue 和 microTaskQueue ）
@@ -131,7 +131,7 @@ nodejs 事件循环的过程
 - 按照顺序执行 6 个类型的宏任务
 - ...
 
-![](./img/event-loop-nodejs.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270956830.png)
 
 ## 答案
 

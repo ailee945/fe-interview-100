@@ -6,7 +6,7 @@ instanceof 的原理是什么，请用代码来表示
 
 ## 原型链
 
-![](./img/原型链.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270932294.png)
 
 ## instanceof 原理
 

@@ -8,7 +8,7 @@ PS：注意回顾 “Node 和 Element 和区别”
 
 ## 深度优先 vs 广度优先
 
-![](./img/dom-tree.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270929894.png)
 
 深度优先的结果 `<div> <p> "hello" <b> "world" <img> 注释 <ul> <li> "a" <li> "b"`
 

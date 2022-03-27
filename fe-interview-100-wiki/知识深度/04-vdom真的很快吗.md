@@ -57,4 +57,4 @@ function render(): VNode {
 
 [Svelte](https://www.sveltejs.cn/) 不使用 vdom ，它将组件修改，编译为精准的 DOM 操作。和 React 设计思路完全不一样。
 
-![](./img/svelte.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270956898.png)

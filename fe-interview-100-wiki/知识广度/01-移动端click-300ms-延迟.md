@@ -8,7 +8,7 @@
 
 智能手机开始流行的前期，浏览器可以点击缩放（double tap to zoom）网页。这样在手机上就可以浏览 PC 网页，很酷炫。
 
-![](./img/nytimes.jpeg)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270953782.jpeg)
 
 浏览器为了分辨 click 还是“点击缩放”，就强行把 click 时间延迟 300ms 触发。
 

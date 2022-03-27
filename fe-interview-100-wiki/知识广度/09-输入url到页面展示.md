@@ -24,7 +24,7 @@
 获取了 html 之后，解析过程中还可能会继续加载其他资源：js css 图片等。<br>
 静态资源可能会有强缓存，加载时要判断。
 
-![](./img/cache-control.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270955479.png)
 
 ## 解析
 

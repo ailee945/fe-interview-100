@@ -5,7 +5,7 @@
 一个二叉搜索树，求其中的第 K 小的节点的值。
 如下图，第 3 小的节点是 `4`
 
-![](./img/二叉搜索树.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203270951556.png)
 
 ## 二叉树
 
