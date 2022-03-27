@@ -58,4 +58,4 @@ io.on('connection', socket => {
 - http 长轮询 - 客户端发起 http 请求，server 不立即返回，等待有结果再返回。这期间 TCP 连接不会关闭，阻塞式。（需要处理 timeout 的情况）
 - webSocket - 客户端发起请求，服务端接收，连接关闭。服务端发起请求，客户端接收，连接关闭。非阻塞。
 
-![](./img/长轮询.jpeg)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203271007382.png)

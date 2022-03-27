@@ -35,7 +35,7 @@
 - css 构建 CSSOM（即 style tree）
 - 两者结合形成 Render tree （包括尺寸、定位等）
 
-![](./img/render.png)
+![](https://cdn.jsdelivr.net/gh/ailee945/picGo/img/202203271004579.png)
 
 css 包括：
 - 内嵌 css `<style>`
